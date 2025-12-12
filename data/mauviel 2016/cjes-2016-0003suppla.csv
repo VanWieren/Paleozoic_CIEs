@@ -1,0 +1,511 @@
+Sample # ,d18o,d13c,Stratigraphic level (m),Lithology ,Formation,UTM ,GPS X,GPS Y
+V1 ,-4.53,-0.5,0,calcilutite ,Vaureal,20U ,395825,5530349
+V2 ,-5.73,-0.77,0.684,calcisiltite ,Vaureal,,,
+V3 ,-5.1,-0.48,1.368,calcilutite ,Vaureal,20U ,395824,5530319
+V4 ,-4.89,-0.57,2.052,calcilutite ,Vaureal,,,
+V5 ,-5.06,-0.4,2.736,calcisiltite ,Vaureal,,,
+V6 ,-4.23,-0.34,3.42,calcisiltite ,Vaureal,20U ,395823,5530214
+V7 ,-4.46,-0.33,4.104,calcilutite ,Vaureal,,,
+V8 ,-4.63,-0.52,4.788,calcilutite ,Vaureal,20U ,395784,5530144
+V9 ,-4.8,-0.58,5.472,calcisiltite ,Vaureal,,,
+V10 ,-4.07,-0.38,6.156,calcisiltite ,Vaureal,20U ,395542,5530092
+V12 ,-4.12,-0.53,6.84,calcisiltite ,Vaureal,,,
+V13 ,-4.35,-0.51,7.524,calcilutite ,Vaureal,,,
+V14 ,-4.06,-0.44,8.208,calcisiltite ,Vaureal,20U ,394398,5529976
+V15 ,-4.11,-0.39,8.892,calcilutite ,Vaureal,,,
+V16 ,-4.3,-0.07,9.576,calcisiltite ,Vaureal,,,
+V17 ,-4.38,-0.21,10.26,calcilutite ,Vaureal,20U ,394352,5529934
+V18 ,-4.67,-0.6,10.944,calcilutite ,Vaureal,,,
+V19 ,-4.66,-0.1,11.628,calcilutite ,Vaureal,,,
+V20 ,-4.33,-0.4,12.312,calcilutite ,Vaureal,20U ,394393,5529839
+V21 ,-5.06,-0.34,12.996,calcisiltite ,Vaureal,,,
+V22 ,-4.98,-0.33,13.68,calcisiltite ,Vaureal,,,
+V23 ,-4.3,-0.3,14.364,calcilutite ,Vaureal,20U ,394355,5529741
+V24 ,-4.79,-0.2,15.048,calcisiltite ,Vaureal,,,
+V25 ,-4.05,-0.11,15.561,calcisiltite ,Vaureal,,,
+V26 ,-4.55,-0.01,16.074,calcilutite ,Vaureal,20U ,394390,5529601
+V28 ,-3.96,0.14,16.758,calcisiltite ,Vaureal,,,
+V29 ,-4.57,-0.22,17.442,calcilutite ,Vaureal,,,
+V30 ,-3.94,0.14,18.126,calcisiltite ,Vaureal,,,
+V31 ,-4.42,-0.35,18.81,calcilutite ,Vaureal,,,
+V32 ,-3.9,0.11,19.494,calcisiltite ,Vaureal,20U ,393866,5529499
+V33 ,-4.52,-0.36,20.178,calcisiltite ,Vaureal,,,
+V34 ,-4.63,-0.25,20.862,calcisiltite ,Vaureal,20U ,393824,5529404
+V36 ,-5.14,-0.31,21.546,calcilutite ,Vaureal,,,
+V37 ,-4.06,-0.22,22.23,calcisiltite ,Vaureal,20U ,393835,5529346
+V38 ,-3.69,-0.02,22.914,calcisiltite ,Vaureal,,,
+V39 ,-4.44,-0.37,23.598,calcisiltite ,Vaureal,20U ,393839,5529299
+V40 ,-4.32,-0.28,24.282,calcilutite ,Vaureal,20U ,393838,5529263
+V41 ,-4.05,-0.5,24.966,calcilutite ,Vaureal,20U ,393832,5529235
+V42 ,-3.83,-0.23,25.65,calcilutite ,Vaureal,20U ,393828,5529198
+V43 ,-4.37,-0.51,26.334,calcisiltite ,Vaureal,,,
+V44 ,-4.1,0.03,27.018,calcilutite ,Vaureal,,,
+V46 ,-4.22,-0.18,27.702,calcisiltite ,Vaureal,20U ,393387,5529192
+V47 ,-4.56,-0.31,28.386,calcilutite ,Vaureal,,,
+V48 ,-4.57,-0.4,29.07,calcilutite ,Vaureal,,,
+V49 ,-4,-0.22,29.754,calcilutite ,Vaureal,20U ,393379,5529109
+V50 ,-3.97,-0.22,30.438,calcisiltite ,Vaureal,,,
+V51 ,-4.16,-0.29,31.122,calcisiltite ,Vaureal,,,
+V52 ,-4.09,-0.34,31.806,calcisiltite ,Vaureal,,,
+V53 ,-3.63,0,32.49,calcisiltite ,Vaureal,20U ,393329,5528976
+V54 ,-3.92,-0.08,32.49,calcisiltite ,Vaureal,20U ,393068,5529033
+V57 ,-4.65,-0.37,33.174,calcilutite ,Vaureal,,,
+V58 ,-3.9,0.15,33.858,calcisiltite ,Vaureal,,,
+V59 ,-4.22,-0.29,34.542,calcisiltite ,Vaureal,,,
+V60 ,-4.41,-0.42,35.226,calcilutite ,Vaureal,20U ,393030,5528922
+V61 ,-3.79,0.03,35.91,calcisiltite ,Vaureal,,,
+V62 ,-4.08,0.09,36.594,calcisiltite ,Vaureal,,,
+V63 ,-4.3,-0.04,37.278,calcisiltite ,Vaureal,,,
+V64 ,-3.78,0.26,37.962,calcilutite ,Vaureal,20U ,392923,5528827
+V65 ,-3.53,0.11,38.646,calcisiltite ,Vaureal,20U ,392917,5528791
+V66 ,-3.78,0.15,39.33,calcilutite ,Vaureal,,,
+V67 ,-4.08,0.15,40.014,calcisiltite ,Vaureal,,,
+V68 ,-3.92,0.22,40.698,calcisiltite ,Vaureal,,,
+V69 ,-4.33,0.07,41.04,calcisiltite ,Vaureal,20U ,392864,5528692
+V70 ,-4.43,0.15,41.382,calcisiltite ,Vaureal,,,
+V71 ,-4.19,0.14,42.066,calcisiltite ,Vaureal,,,
+V72 ,-4.03,0.31,42.75,calcilutite ,Vaureal,20U ,392830,5528630
+V73 ,-3.71,0.54,43.434,calcisiltite ,Vaureal,,,
+V74 ,-3.68,0.58,44.118,calcisiltite ,Vaureal,20U ,392809,5528549
+V76 ,-4.45,0.16,44.802,calcilutite ,Vaureal,,,
+V77 ,-4.06,0.5,45.486,calcilutite ,Vaureal,,,
+V79 ,-3.68,0.77,45.828,calcisiltite ,Vaureal,20U ,392780,5528482
+V81 ,-4.63,0.1,46.512,calcisiltite ,Vaureal,,,
+V82 ,-4.34,0.34,47.196,calcisiltite ,Vaureal,,,
+V83 ,-3.92,0.35,47.88,calcisiltite ,Vaureal,,,
+V84 ,-3.58,0.59,48.564,calcisiltite ,Vaureal,,,
+V85 ,-3.54,0.6,49.248,calcisiltite ,Vaureal,,,
+V86 ,-3.87,0.5,49.59,calcisiltite ,Vaureal,20U ,392734,5528308
+V87 ,-4.25,0.37,49.932,calcilutite ,Vaureal,,,
+V88 ,-3.99,0.44,50.616,calcilutite ,Vaureal,,,
+V89 ,-3.68,0.48,51.3,calcilutite ,Vaureal,20U ,392695,5528218
+V90 ,-3.95,0.38,51.984,calcisiltite ,Vaureal,,,
+V91 ,-4.31,0.1,52.668,calcilutite ,Vaureal,,,
+V92 ,-4.1,0.43,53.352,calcilutite ,Vaureal,,,
+V93 ,-3.86,0.32,54.036,calcisiltite ,Vaureal,,,
+V94 ,-3.77,0.32,54.72,calcisiltite ,Vaureal,20U ,392669,5528071
+V95 ,-3.96,0.24,55.404,calcisiltite ,Vaureal,,,
+V96 ,-4.11,0.38,56.088,calcisiltite ,Vaureal,,,
+V97 ,-4.1,0.41,56.772,calcilutite ,Vaureal,,,
+V98 ,-4.17,0.45,57.456,calcilutite ,Vaureal,,,
+V99 ,-3.6,0.52,58.14,calcisiltite ,Vaureal,20U ,392550,5527940
+V100 ,-4.46,-0.03,58.824,calcisiltite ,Vaureal,,,
+V101 ,-4.28,0.15,59.508,calcilutite ,Vaureal,,,
+V102 ,-4.5,0.26,60.192,calcisiltite ,Vaureal,,,
+V103 ,-4.74,0.35,60.876,calcisiltite ,Vaureal,20U ,392555,5527827
+V104 ,-4.05,0.55,61.56,calcisiltite/calcarenite ,Vaureal,,,
+V105 ,-4.31,0.35,62.244,calcisiltite ,Vaureal,,,
+V106 ,-4.14,0.2,62.928,calcilutite ,Vaureal,,,
+V107 ,-4.2,0.44,63.612,calcilutite ,Vaureal,,,
+V108 ,-3.84,0.55,64.296,calcilutite ,Vaureal,,,
+V109 ,-3.97,0.57,64.98,calcilutite ,Vaureal,,,
+V110 ,-3.88,0.49,65.664,calcilutite ,Vaureal,20U ,392456,5527632
+V111 ,-3.74,0.33,66.348,calcilutite ,Vaureal,,,
+V112 ,-4.14,0.28,67.032,calcilutite ,Vaureal,,,
+V113 ,-4.46,0.12,67.203,calcilutite ,Vaureal,,,
+V114 ,-4.57,0.18,67.374,calcisiltite ,Vaureal,20U ,392461,5527564
+V124 ,-3.79,0.38,67.716,calcisiltite ,Vaureal,,,
+V125 ,-3.97,0.25,68.058,calcisiltite ,Vaureal,,,
+V126 ,-3.91,0.35,68.742,calcisiltite ,Vaureal,,,
+V127 ,-3.66,0.42,69.426,calcilutite ,Vaureal,20U ,391430,5527740
+V128 ,-4.15,0.44,70.11,calcilutite ,Vaureal,,,
+V129 ,-3.87,0.24,70.794,calcisiltite ,Vaureal,,,
+V130 ,-3.77,0.41,71.478,calcisiltite ,Vaureal,,,
+V131 ,-3.86,0.39,72.162,calcisiltite ,Vaureal,20U ,391403,5527648
+V132 ,-3.73,0.25,72.846,calcisiltite ,Vaureal,,,
+V133 ,-3.84,0.08,73.53,calcilutite ,Vaureal,,,
+V134 ,-3.8,0.21,74.214,calcilutite ,Vaureal,,,
+V135 ,-4.14,0.43,74.898,calcilutite ,Vaureal,,,
+V136 ,-3.65,0.23,75.582,calcilutite ,Vaureal,,,
+V137 ,-4.34,0.44,76.266,calcilutite ,Vaureal,,,
+V138 ,-3.46,0.44,76.95,calcilutite/calcisiltite ,Vaureal,20U ,391365,5527432
+V139 ,-3.81,0.11,77.634,calcisiltite ,Vaureal,,,
+V140 ,-4.59,0.4,78.318,calcilutite ,Vaureal,,,
+V141 ,-4.16,0.24,79.002,calcilutite ,Vaureal,,,
+V142 ,-4.04,0.42,79.686,calcilutite ,Vaureal,,,
+V143 ,-4,0.18,80.37,calcilutite/calcisiltite ,Vaureal,,,
+V144 ,-4.08,0.46,81.054,calcilutite ,Vaureal,20U ,391285,5527222
+V145 ,-4.27,0.55,81.738,calcilutite ,Vaureal,,,
+V146 ,-4.15,0.44,82.422,calcilutite ,Vaureal,,,
+V147 ,-4.06,0.34,83.106,calcilutite ,Vaureal,,,
+V148 ,-3.69,0.53,83.79,calcisiltite ,Vaureal,,,
+V149 ,-3.6,0.49,84.474,calcilutite ,Vaureal,20U ,391131,5527101
+V150 ,-4.15,0.32,85.158,calcilutite ,Vaureal,20U ,391106,5527038
+V151 ,-3.76,0.38,85.842,calcilutite ,Vaureal,,,
+V152 ,-3.35,0.61,86.526,calcisiltite ,Vaureal,20U ,391070,5526993
+V153 ,-3.91,0.48,87.21,calcilutite ,Vaureal,,,
+V154 ,-3.73,0.62,87.894,calcilutite ,Vaureal,,,
+V155 ,-3.84,0.47,88.578,calcilutite ,Vaureal,,,
+V156 ,-3.98,0.33,89.262,calcilutite ,Vaureal,,,
+V157 ,-3.51,0.45,89.946,calcisiltite ,Vaureal,,,
+V158 ,-4.16,0.48,90.63,calcisiltite ,Vaureal,,,
+V159 ,-4.44,0.41,91.314,calcisiltite ,Vaureal,20U ,390979,5526816
+V160 ,-4.2,0.6,91.998,calcilutite/calcisiltite ,Vaureal,,,
+V161 ,-4.14,0.31,92.682,calcisiltite ,Vaureal,,,
+V162 ,-3.88,0.07,93.366,calcilutite ,Vaureal,,,
+V163 ,-3.84,0.15,94.05,calcisiltite ,Vaureal,20U ,390908,5526731
+V164 ,-3.71,0.27,94.734,calcisiltite ,Vaureal,,,
+V165 ,-4.17,0.07,95.418,calcilutite ,Vaureal,,,
+V166 ,-3.46,0.18,96.102,calcisiltite ,Vaureal,,,
+V167 ,-4.07,0.33,96.786,calcisiltite ,Vaureal,,,
+V168 ,-4.28,0,97.47,calcisiltite ,Vaureal,,,
+V169 ,-3.52,0.34,98.154,calcilutite ,Vaureal,,,
+V170 ,-4.11,0.27,98.838,calcilutite ,Vaureal,20U ,390848,5526541
+V171 ,-3.87,0.67,99.522,calcisiltite ,Vaureal,,,
+V172 ,-3.7,0.06,100.206,calcisiltite ,Vaureal,,,
+V173 ,-3.78,0.17,100.89,calcilutite ,Vaureal,20U ,390803,5526432
+V174 ,-4.18,-0.21,101.574,calcilutite/calcisiltite ,Vaureal,,,
+V175 ,-3.52,0.36,102.258,calcisiltite ,Vaureal,,,
+V176 ,-3.14,0.83,102.942,calcilutite ,Vaureal,20U ,390800,5526342
+V177 ,-3.61,0.41,103.626,calcilutite ,Vaureal,,,
+V178 ,-3.6,0.38,104.31,calcisiltite ,Vaureal,,,
+V179 ,-3.88,0.42,104.994,calcilutite ,Vaureal,,,
+V180 ,-3.81,0.29,105.678,calcisiltite ,Vaureal,20U ,390771,5526219
+V181 ,-4.39,0.43,106.362,calcisiltite ,Vaureal,,,
+V182 ,-4.32,0.45,107.046,calcisiltite ,Vaureal,,,
+V183 ,-3.84,0.5,107.73,calcilutite ,Vaureal,20U ,390750,5526125
+V184 ,-3.72,0.42,108.414,calcisiltite ,Vaureal,,,
+V185 ,-3.55,0.39,109.098,calcisiltite ,Vaureal,20U ,390736,5526072
+V186 ,-3.75,0.57,109.782,calcisiltite ,Vaureal,,,
+V188 ,-4.06,0.48,110.466,calcilutite ,Vaureal,,,
+V189 ,-3.71,0.31,111.15,calcisiltite ,Vaureal,,,
+V190 ,-4.6,0.57,111.834,calcisiltite ,Vaureal,,,
+V191 ,-4.11,0.44,112.518,calcisiltite ,Vaureal,20U ,390719,5525904
+V193 ,-3.64,0.56,113.202,calcilutite ,Vaureal,20U ,390715,5525878
+V194 ,-3.74,0.61,113.886,calcilutite ,Vaureal,,,
+V195 ,-3.52,0.24,114.57,calcisiltite ,Vaureal,20U ,390698,5525816
+V196 ,-3.69,0.56,115.254,calcilutite ,Vaureal,,,
+V197 ,-3.3,0.41,115.938,calcisiltite/calcarenite ,Vaureal,,,
+V198 ,-3.6,0.34,116.622,calcilutite ,Vaureal,20U ,390689,5525726
+V199 ,-3.4,0.34,117.306,calcisiltite ,Vaureal,,,
+V200 ,-3.64,0.34,117.99,calcisiltite ,Vaureal,,,
+V201 ,-3.58,0.41,118.332,calcisiltite ,Vaureal,20U ,390678,5525652
+V202 ,-3.71,0.09,118.674,calcisiltite ,Vaureal,,,
+V203 ,-3.91,0.22,119.358,calcisiltite ,Vaureal,,,
+V204 ,-3.39,0.52,120.042,calcisiltite ,Vaureal,,,
+V205 ,-3.56,0.61,120.726,calcilutite ,Vaureal,,,
+V206 ,-3.54,0.51,121.41,calcisiltite ,Vaureal,,,
+V207 ,-3.81,0.57,122.094,calcilutite ,Vaureal,20U ,390656,5525480
+V208 ,-3.37,0.57,122.778,calcilutite ,Vaureal,,,
+V209 ,-4.07,0.49,123.462,calcisiltite ,Vaureal,,,
+V210 ,-3.86,0.49,124.146,calcilutite ,Vaureal,,,
+V211 ,-3.44,0.72,124.83,calcilutite ,Vaureal,,,
+V212 ,-4.18,0.33,125.514,calcisiltite ,Vaureal,20U ,390624,5525338
+V213 ,-4.34,0.74,126.198,calcisiltite ,Vaureal,,,
+V214 ,-3.56,0.77,126.882,calcilutite ,Vaureal,,,
+V215 ,-4,0.41,127.566,calcilutite ,Vaureal,,,
+V216 ,-3.8,0.28,128.25,calcilutite ,Vaureal,,,
+V217 ,-3.45,0.27,128.934,calcisiltite ,Vaureal,,,
+V218 ,-3.6,0.22,129.276,calcisiltite ,Vaureal,20U ,390585,5525173
+V219 ,-3.74,0.3,129.96,calcilutite ,Vaureal,,,
+V220 ,-3.85,0.6,130.644,calcisiltite ,Vaureal,,,
+V221 ,-3.58,0.58,131.328,calcilutite ,Vaureal,,,
+V222 ,-3.44,0.73,132.012,calcilutite ,Vaureal,20U ,390540,5525061
+V223 ,-3.33,0.55,132.696,calcisiltite ,Vaureal,,,
+V224 ,-3.92,0.62,133.38,calcisiltite ,Vaureal,20U ,390516,5524979
+V225 ,-3.71,0.46,134.064,calcisiltite ,Vaureal,,,
+V226 ,-3.52,0.68,134.748,calcilutite ,Vaureal,,,
+V227 ,-3.2,0.66,135.432,calcilutite ,Vaureal,,,
+V228 ,-3.42,0.22,136.116,calcilutite ,Vaureal,,,
+V229 ,-3.58,0.28,136.8,calcisiltite ,Vaureal,20U ,390448,5524819
+V230 ,-3.5,0.54,137.484,calcilutite ,Vaureal,,,
+V231 ,-3.42,0.53,138.168,calcilutite ,Vaureal,,,
+V232 ,-3.56,0.39,138.852,calcisiltite ,Vaureal,,,
+V233 ,-3.85,0.31,139.536,calcisiltite ,Vaureal,,,
+V234 ,-3.59,0.12,140.22,calcisiltite ,Vaureal,20U ,390479,5524661
+V235 ,-3.37,0.14,140.904,calcilutite/calcisiltite ,Vaureal,,,
+V236 ,-3.78,0.55,141.588,calcilutite ,Vaureal,,,
+V237 ,-3.49,0.25,142.272,calcilutite ,Vaureal,20U ,390451,5524563
+V238 ,-3.62,0.23,142.956,calcilutite ,Vaureal,,,
+V239 ,-3.63,0.47,143.64,calcilutite ,Vaureal,,,
+V240 ,-4.48,0.62,143.982,calcisiltite ,Vaureal,20U ,390434,5524496
+V241 ,-3.6,0.15,144.666,calcisiltite ,Vaureal,,,
+V242 ,-3.67,0.39,145.35,calcilutite ,Vaureal,,,
+V243 ,-3.66,0.04,146.034,calcisiltite ,Vaureal,,,
+V244 ,-3.52,0.34,146.718,calcisiltite ,Vaureal,,,
+V245 ,-3.72,0.06,147.402,calcisiltite ,Vaureal,20U ,390566,5524235
+V246 ,-4.11,0.39,148.086,calcilutite/calcisiltite ,Vaureal,,,
+V247 ,-4.29,0.32,148.77,calcilutite ,Vaureal,20U ,390562,5524190
+V248 ,-4.28,0.15,149.454,calcisiltite ,Vaureal,,,
+V249 ,-4.34,-0.45,150.138,calcilutite ,Vaureal,,,
+V250 ,-4.2,0.36,150.822,calcisiltite ,Vaureal,,,
+V251 ,-4.89,0.26,151.506,calcilutite ,Vaureal,20U ,390541,5524072
+V252 ,-4.05,0.26,152.19,calcilutite ,Vaureal,,,
+V253 ,-3.68,0.36,152.874,calcilutite/calcisiltite ,Vaureal,20U ,391000,5523791
+V254 ,-3.86,0.39,153.558,calcilutite ,Vaureal,,,
+V255 ,-3.95,0.51,154.242,calcilutite ,Vaureal,,,
+V256 ,-4.34,0.31,154.926,calcilutite ,Vaureal,,,
+V257 ,-4.43,-0.51,155.268,calcisiltite ,Vaureal,20U ,390997,5523710
+V258 ,-3.88,0.48,155.952,calcilutite ,Vaureal,20U ,391536,5523519
+V259 ,-3.69,0.5,156.636,calcisiltite ,Vaureal,,,
+V260 ,-3.75,0.5,157.32,calcilutite/calcisiltite ,Vaureal,20U ,391524,5523480
+V261 ,-3.95,0.69,158.004,calcilutite ,Vaureal,,,
+V262 ,-3.91,0.65,158.688,calcilutite ,Vaureal,,,
+V263 ,-4.23,0.32,159.372,calcilutite/calcisiltite ,Vaureal,20U ,392211,5523061
+V264 ,-4.47,0.28,160.056,calcilutite ,Vaureal,,,
+V265 ,-3.81,0.48,160.74,calcilutite/calcisiltite ,Vaureal,20U ,392200,5522998
+V266 ,-3.93,0.41,161.424,calcilutite ,Vaureal,,,
+V267 ,-3.8,-0.11,162.108,calcilutite ,Vaureal,,,
+V268 ,-3.75,0.3,162.792,calcisiltite ,Vaureal,,,
+V269 ,-3.9,0.54,163.476,calcilutite/calcisiltite ,Vaureal,,,
+V270 ,-4.18,0.14,164.16,calcilutite/calcisiltite ,Vaureal,20U ,392221,5522842
+V271 ,-4.06,0.52,164.844,calcilutite ,Vaureal,,,
+V272 ,-4,0.26,165.528,calcilutite ,Vaureal,,,
+V273 ,-3.89,0.4,166.212,calcilutite ,Vaureal,,,
+V274 ,-4.19,0.37,166.896,calcilutite ,Vaureal,20U ,392191,5522739
+V276 ,-4.12,0.58,167.58,calcilutite ,Vaureal,,,
+V277 ,-3.6,0.7,168.264,calcilutite ,Vaureal,,,
+V278 ,-3.7,0.4,168.948,calcilutite ,Vaureal,,,
+V279 ,-3.91,0.57,169.632,calcilutite ,Vaureal,,,
+V280 ,-3.66,0.24,170.316,calcilutite ,Vaureal,,,
+V281 ,-3.73,0.68,171,calcilutite ,Vaureal,,,
+V282 ,-4.08,0.6,171.684,calcilutite ,Vaureal,,,
+V283 ,-4.08,0.37,172.368,calcilutite ,Vaureal,,,
+V284 ,-4.12,0.64,173.052,calcilutite ,Vaureal,,,
+V285 ,-3.38,0.93,173.736,calcilutite ,Vaureal,,,
+V286 ,-3.47,0.92,174.42,calcilutite ,Vaureal,,,
+V287 ,-3.29,0.66,175.104,calcilutite ,Vaureal,,,
+V288 ,-3.09,0.89,175.788,calcilutite ,Vaureal,,,
+V289 ,-3.6,0.42,176.472,calcilutite/calcisiltite ,Vaureal,,,
+V290 ,-3,1.43,177.156,calcisiltite ,Vaureal,,,
+V291 ,-3.35,1.02,177.84,calcisiltite ,Vaureal,,,
+V292 ,-3.89,0.27,178.182,calcisiltite ,Vaureal,20U ,393522,5522049
+V293 ,-3.32,0.7,178.524,calcilutite ,Vaureal,20U ,393520,5522029
+V294 ,-3.14,0.73,179.208,calcilutite ,Vaureal,,,
+V295 ,-3.52,0.56,179.55,calcilutite ,Vaureal,20U ,393512,5521998
+VAF2 ,-3.47,0.71,179.892,calcilutite ,Vaureal,,,
+VAF3 ,-3.38,0.54,180.234,calcilutite ,Vaureal,,,
+VAFX ,-4.01,0.63,182,calcilutite ,Vaureal,20U ,395636,5521447
+VAF13 ,-3.7,0.97,183.654,calcilutite ,Vaureal,,,
+VAF14 ,-3.24,1.23,183.996,calcilutite ,Vaureal,,,
+VAF15 ,-3.51,1.11,184.338,calcilutite ,Vaureal,,,
+VAF16 ,-3.62,1.12,184.68,calcilutite ,Vaureal,,,
+VAF17 ,-3.46,1.18,185.022,calcilutite ,Vaureal,,,
+VAF18 ,-3.89,0.82,185.364,calcilutite ,Vaureal,,,
+VAF19 ,-3.87,0.54,185.706,calcilutite ,Vaureal,,,
+VAF20 ,-3.56,0.84,186.048,calcilutite ,Vaureal,,,
+E296 ,-3.63,0.86,186.048,calcisiltite ,Ellis Bay,20U ,395655,5521275
+E297 ,-3.26,0.55,186.732,calcisiltite ,Ellis Bay,,,
+E298 ,-3.8,0.45,187.416,calcisiltite ,Ellis Bay,,,
+E299 ,-3.58,0.82,188.1,calcilutite/calcisiltite ,Ellis Bay,,,
+E300 ,-3.94,1,188.784,calcilutite/calcisiltite ,Ellis Bay,,,
+E301 ,-2.99,1.18,189.468,calcisiltite ,Ellis Bay,,,
+E302 ,-3.03,1.18,190.152,calcilutite ,Ellis Bay,,,
+E303 ,-3.23,1.86,190.836,"calcilutite, argillaceous ",Ellis Bay,,,
+E304 ,-3.22,2.06,191.52,calcilutite ,Ellis Bay,,,
+E305 ,-3.18,1.67,192.204,"calcilutite, argillaceous ",Ellis Bay,,,
+E306 ,-3.28,1.79,192.888,calcilutite ,Ellis Bay,,,
+E307 ,-3.24,1.66,193.572,calcilutite ,Ellis Bay,,,
+E308 ,-3.46,1.8,194.256,calcilutite ,Ellis Bay,,,
+E309 ,-3.64,1.73,194.94,calcilutite ,Ellis Bay,,,
+E310 ,-3.43,1.74,195.624,"calcilutite, argillaceous ",Ellis Bay,,,
+E311 ,-3.6,1.81,196.308,calcilutite/calcisiltite ,Ellis Bay,,,
+E312 ,-3.31,1.97,196.992,calcilutite ,Ellis Bay,,,
+E313 ,-3.3,2.04,197.676,calcilutite ,Ellis Bay,,,
+E314 ,-3.56,1.98,198.36,calcilutite ,Ellis Bay,,,
+E315 ,-3.54,1.64,199.044,"calcilutite, argillaceous ",Ellis Bay,,,
+E316 ,-3.18,1.49,199.386,calcilutite/calcisiltite ,Ellis Bay,20U ,395718,5520723
+E317 ,-3.3,1.53,199.728,calcilutite/calcisiltite ,Ellis Bay,,,
+E318 ,-3.73,1.47,200.412,calcilutite/calcisiltite ,Ellis Bay,20U ,395721,5520682
+E319 ,-3.26,1.97,201.096,calcilutite ,Ellis Bay,,,
+E320 ,-3.15,2.3,201.78,calcilutite ,Ellis Bay,,,
+E321 ,-3.5,2.36,202.464,calcilutite ,Ellis Bay,,,
+E322 ,-3.42,2.28,203.148,calcilutite ,Ellis Bay,,,
+E323 ,-3.19,1.85,203.661,calcilutite ,Ellis Bay,20U ,395952,5520514
+E324 ,-3.15,2.33,204.516,calcilutite ,Ellis Bay,,,
+E325 ,-3.18,2.51,205.2,"calcilutite, bioturbated ",Ellis Bay,,,
+E326 ,-3.47,2.41,205.884,"calcilutite, bioturbated ",Ellis Bay,,,
+E327 ,-3.28,2.27,206.568,"calcilutite, bioturbated ",Ellis Bay,,,
+E328 ,-3.33,1.13,207.252,"calcilutite, argillaceous ",Ellis Bay,20U ,395976,5520336
+E329 ,-3.45,1.45,207.936,"calcilutite, argillaceous ",Ellis Bay,,,
+E330 ,-3.56,1.27,208.62,"calcilutite, argillaceous ",Ellis Bay,,,
+E331 ,-3.41,1.51,209.304,calcisiltite/calcarenite ,Ellis Bay,20U ,395982,5520277
+E333 ,-3.3,1.47,209.988,"calcilutite, argillaceous ",Ellis Bay,20U ,395987,5520227
+E334 ,-3.46,1.8,210.672,"calcilutite, argillaceous ",Ellis Bay,,,
+E335 ,-3.37,2,211.356,"calcilutite, argillaceous ",Ellis Bay,,,
+E336 ,-3.7,1.73,212.04,calcilutite/calcisiltite ,Ellis Bay,,,
+E337 ,-3.44,1.78,212.724,"calcilutite, argillaceous ",Ellis Bay,,,
+E338 ,-3.63,1.29,213.408,calcilutite ,Ellis Bay,,,
+E339 ,-3.59,1.53,213.75,calcilutite ,Ellis Bay,20U ,395980,5520077
+E340 ,-3.61,1.35,214.092,"calcilutite, argillaceous ",Ellis Bay,,,
+E341 ,-3.33,0.86,214.776,"calcilutite, argillaceous ",Ellis Bay,,,
+E342 ,-3.35,1.3,215.46,calcilutite ,Ellis Bay,,,
+E343 ,-3.38,1.92,215.802,calcisiltite ,Ellis Bay,,,
+E344 ,-3.27,1.56,216.144,calcilutite ,Ellis Bay,,,
+E345 ,-3.34,1.96,216.486,calcilutite ,Ellis Bay,20U ,395989,5519956
+E346 ,-3.41,1.92,217.17,calcilutite ,Ellis Bay,,,
+E347 ,-3.32,1.92,217.854,calcilutite ,Ellis Bay,20U ,396146,5519880
+E348 ,-3.24,1.76,218.538,calcilutite ,Ellis Bay,,,
+E349 ,-3.32,1.71,219.222,calcilutite ,Ellis Bay,,,
+E350 ,-3.19,1.62,219.906,calcilutite ,Ellis Bay,,,
+E351 ,-3.09,1.71,220.59,calcilutite ,Ellis Bay,,,
+E352 ,-3.36,1.52,221.274,calcilutite ,Ellis Bay,,,
+E353 ,-3.18,1.47,221.958,calcilutite ,Ellis Bay,,,
+E354 ,-3.46,1.46,222.642,"calcilutite, bioturbated ",Ellis Bay,,,
+E355 ,-3.31,1.28,223.326,"calcilutite, bioturbated ",Ellis Bay,,,
+E356 ,-3.17,0.99,224.01,"calcilutite, bioturbated ",Ellis Bay,20U ,396173,5519612
+E357 ,-3.14,1.32,224.694,calcilutite ,Ellis Bay,,,
+E358 ,-3.26,1.07,225.378,calcilutite ,Ellis Bay,,,
+E359 ,-3.12,1.13,226.062,calcilutite ,Ellis Bay,20U ,396576,5519422
+E360 ,-3.02,1.18,226.746,calcilutite ,Ellis Bay,,,
+E361 ,-3.06,0.42,227.43,calcilutite ,Ellis Bay,,,
+E362 ,-3.17,1.32,228.114,calcilutite ,Ellis Bay,,,
+E363 ,-3.2,1.33,228.798,calcilutite ,Ellis Bay,,,
+E364 ,-3.59,0.97,229.482,"calcilutite, argillaceous ",Ellis Bay,20U ,396589,5519251
+E365 ,-3.16,0.99,230.166,"calcilutite, bioturbated ",Ellis Bay,,,
+E366 ,-3.15,1.39,230.85,"calcilutite, bioturbated ",Ellis Bay,,,
+E367 ,-3.24,1.31,231.534,calcilutite ,Ellis Bay,,,
+E368 ,-3.21,1.39,232.218,calcilutite ,Ellis Bay,,,
+E369 ,-3.14,1.3,232.902,calcilutite ,Ellis Bay,20U ,396630,5519117
+E370 ,-3.08,1.33,233.586,calcilutite ,Ellis Bay,,,
+E371 ,-3.32,1.01,234.27,calcilutite ,Ellis Bay,,,
+E372 ,-3.13,1,234.954,"calcilutite, bioturbated ",Ellis Bay,,,
+E373 ,-3.16,1.01,235.638,calcilutite ,Ellis Bay,,,
+E374 ,-2.99,1.19,236.322,calcilutite ,Ellis Bay,20U ,396969,5518938
+E375 ,-3.17,0.99,237.006,"calcilutite, bioturbated ",Ellis Bay,,,
+E376 ,-3.5,1.27,237.69,calcilutite ,Ellis Bay,,,
+E377 ,-3.3,1.32,238.374,calcilutite ,Ellis Bay,,,
+E378 ,-3.38,1.28,239.058,calcilutite ,Ellis Bay,,,
+E379 ,-3.44,0.9,239.742,calcilutite ,Ellis Bay,,,
+E380 ,-3.19,1.05,240.426,calcilutite ,Ellis Bay,20U ,397013,5518751
+E381 ,-3.34,0.76,241.11,calcilutite ,Ellis Bay,,,
+E382 ,-3.16,0.86,241.794,"calcilutite, argillaceous ",Ellis Bay,,,
+E383 ,-3.64,0.59,242.478,"calcilutite, bioturbated ",Ellis Bay,,,
+E384 ,-3.14,0.89,243.162,"calcilutite, argillaceous ",Ellis Bay,20U ,397040,5518621
+E385 ,-3.32,0.54,243.846,"calcilutite, argillaceous ",Ellis Bay,,,
+E386 ,-3.29,0.95,244.53,calcilutite ,Ellis Bay,,,
+E387 ,-3.82,0.57,245.214,"calcilutite, argillaceous ",Ellis Bay,,,
+E388 ,-3.29,1.08,245.898,"calcilutite, argil., bioturb. ",Ellis Bay,,,
+E389 ,-3.94,0.77,246.582,"calcilutite, argil., bioturb. ",Ellis Bay,,,
+E390 ,-3.07,0.82,247.095,calcilutite/calcisiltite ,Ellis Bay,20U ,397082,5518468
+E391 ,-3.47,0.33,247.95,calcilutite ,Ellis Bay,,,
+E392 ,-3.26,0.98,248.634,calcilutite ,Ellis Bay,20U ,397320,5518467
+E393 ,-3.08,0.88,249.318,calcilutite ,Ellis Bay,,,
+E394 ,-3.32,0.89,250.002,calcilutite ,Ellis Bay,,,
+E395 ,-3.38,1.13,250.686,calcilutite ,Ellis Bay,,,
+E396 ,-3.28,1.24,251.37,"calcilutite, argillaceous ",Ellis Bay,20U ,397357,5518355
+E397 ,-3.35,1.29,252.054,"calcilutite, argillaceous ",Ellis Bay,,,
+E398 ,-3.6,1.16,252.738,calcilutite ,Ellis Bay,,,
+E399 ,-3.77,1.05,253.422,calcilutite ,Ellis Bay,20U ,397378,5518267
+E400 ,-3.71,1.12,254.106,calcilutite ,Ellis Bay,,,
+E401 ,-3.19,1.11,254.79,calcilutite ,Ellis Bay,20U ,397385,5518212
+E402 ,-3.39,1.26,255.474,calcilutite ,Ellis Bay,,,
+E403 ,-3.56,0.97,256.158,calcilutite ,Ellis Bay,,,
+E404 ,-3.17,1.48,256.842,"calcilutite, bioturbated ",Ellis Bay,,,
+E405 ,-3.49,0.48,257.526,"calcilutite, bioturbated ",Ellis Bay,20U ,397436,5518102
+E406 ,-3.33,1.18,258.21,"calcilutite, argillaceous ",Ellis Bay,,,
+E407 ,-3.42,0.8,259.236,calcilutite ,Ellis Bay,20U ,397536,5518048
+E408 ,-3.63,0.97,259.578,calcilutite ,Ellis Bay,,,
+E409 ,-3.3,0.69,260.262,"calcilutite, argillaceous ",Ellis Bay,,,
+E410 ,-3.73,0.44,260.604,"calcilutite, argillaceous ",Ellis Bay,20U ,397549,5517978
+E411 ,-3.4,0.85,260.946,"calcilutite, argillaceous ",Ellis Bay,,,
+E412 ,-3.51,0.88,261.63,"calcilutite, argillaceous ",Ellis Bay,,,
+E413 ,-3.17,0.47,262.314,"calcilutite, argillaceous ",Ellis Bay,,,
+E414 ,-3.15,0.52,262.998,"calcilutite, argillaceous ",Ellis Bay,,,
+E415 ,-3.26,0.93,263.682,"calcilutite, argillaceous ",Ellis Bay,,,
+E416 ,-3.38,0.26,264.366,"calcilutite, argillaceous ",Ellis Bay,20U ,397577,5517812
+E417 ,-3.57,0.28,265.05,"calcilutite, argillaceous ",Ellis Bay,,,
+E418 ,-2.35,1.28,265.734,"calcilutite, argillaceous ",Ellis Bay,,,
+L2 ,-4.21,1.91,265.818,calcisiltite ,Ellis Bay,,,
+L3 ,-4.32,1.95,266.018,calcisiltite ,Ellis Bay,,,
+L4 ,-3.9,2.08,266.218,calcisiltite ,Ellis Bay,,,
+L5 ,-3.69,2.77,266.468,calcisiltite (Oncolite) ,Ellis Bay,,,
+L6 ,-4.06,2.38,266.618,calcisiltite ,Ellis Bay,,,
+L7 ,-2.59,3.23,266.818,calcilutite ,Ellis Bay,,,
+L8 ,-2.24,3.52,267.018,calcisiltite ,Ellis Bay,,,
+L9 ,-2.96,3.48,267.218,calcisiltite ,Ellis Bay,,,
+L10 ,-2.12,3.68,267.418,calcilutite ,Ellis Bay,,,
+L11 ,-2.56,3.65,267.618,calcilutite ,Ellis Bay,,,
+L12 ,-2.19,3.8,267.818,calcilutite ,Ellis Bay,,,
+L13 ,-2.81,4.09,268.018,calcisiltite ,Ellis Bay,,,
+L14 ,-3.6,3.3,268.218,calcisiltite ,Ellis Bay,,,
+L15 ,-2.86,4.1,268.418,calcisiltite ,Ellis Bay,,,
+L16 ,-3.19,3.45,268.618,calcisiltite ,Ellis Bay,,,
+L17 ,-2.88,3.67,268.818,calcisiltite ,Ellis Bay,,,
+L18 ,-2.89,3.51,269.018,calcilutite ,Ellis Bay,,,
+L19 ,-3.14,2.66,269.218,calcilutite ,Ellis Bay,,,
+L20 ,-3.08,3.84,269.318,calcilutite ,Ellis Bay,,,
+L21 ,-3.12,4,269.518,Reef ,Ellis Bay,,,
+L22 ,-3.31,3.78,269.718,Reef ,Ellis Bay,,,
+L23 ,-2.69,3.83,269.918,Reef ,Ellis Bay,,,
+L24 ,-2.15,4.17,270.018,Reef ,Ellis Bay,,,
+L25 ,-2.69,3.95,270.118,Reef ,Ellis Bay,,,
+L26 ,-3.34,3.16,270.218,Reef ,Ellis Bay,,,
+L27 ,-3.22,3.21,270.418,Reef ,Ellis Bay,,,
+L28 ,-4.42,2.01,270.518,calcarenite ,Becscie,,,
+L29 ,-4.06,1.74,270.618,calcilutite ,Becscie,,,
+L30 ,-3.48,1.8,270.718,calcilutite ,Becscie,,,
+L31 ,-3.73,1.97,270.818,calcarenite ,Becscie,,,
+L32 ,-3.45,1.2,270.918,calcilutite ,Becscie,,,
+L33 ,-3.99,1.41,271.168,calcilutite ,Becscie,,,
+L34 ,-4.78,1.02,271.268,calcilutite ,Becscie,,,
+L35 ,-3.53,1.08,271.568,calcilutite ,Becscie,,,
+L36 ,-4.17,0.71,271.818,calcisiltite ,Becscie,,,
+L37 ,-3.89,0.92,272.268,calcisiltite ,Becscie,,,
+B443 ,-3.67,0.41,272.57,calcilutite ,Becscie,20U ,404252,5516359
+B444 ,-3.84,0.43,273.254,calcilutite ,Becscie,,,
+B445 ,-3.76,-0.13,273.938,"calcilutite, bioturbated ",Becscie,,,
+B446 ,-3.46,0.56,274.622,calcilutite ,Becscie,,,
+B447 ,-4.18,0.02,275.306,calcilutite ,Becscie,,,
+B448 ,-3.62,0.58,275.99,calcilutite ,Becscie,,,
+B449 ,-3.43,0.45,276.674,calcilutite ,Becscie,,,
+B450 ,-3.89,0.28,277.358,calcilutite ,Becscie,,,
+B451 ,-4.19,-0.34,278.042,calcilutite ,Becscie,,,
+B452 ,-3.58,0.38,278.726,calcilutite ,Becscie,20U ,404272,5516080
+B453 ,-4.01,0.34,279.41,"calcilutite, bioturbated ",Becscie,,,
+B454 ,-3.59,0.38,280.094,calcilutite ,Becscie,,,
+B455 ,-3.54,0.35,280.778,calcisiltite ,Becscie,20U ,404276,5516006
+B456 ,-3.5,-0.02,281.462,calcilutite ,Becscie,,,
+B457 ,-3.5,0.56,282.146,calcilutite ,Becscie,,,
+B458 ,-3.44,0.41,282.83,calcilutite ,Becscie,,,
+B459 ,-3.63,0.23,283.514,calcilutite ,Becscie,,,
+B460 ,-3.73,0.29,284.198,calcilutite ,Becscie,,,
+B461 ,-3.68,0.42,284.882,calcisiltite ,Becscie,20U ,404268,5515837
+B462 ,-3.63,0.31,285.566,calcilutite ,Becscie,,,
+B463 ,-3.57,0.5,286.25,calcisiltite ,Becscie,,,
+B464 ,-3.38,0.39,286.934,"calcilutite, bioturbated ",Becscie,,,
+B465 ,-3.46,0.22,287.618,calcilutite/calcisiltite ,Becscie,,,
+B466 ,-3.52,0.17,288.302,calcilutite ,Becscie,,,
+B467 ,-4.32,-0.21,288.986,calcisiltite ,Becscie,20U ,404222,5515658
+B468 ,-3.84,-0.01,289.67,calcisiltite ,Becscie,,,
+B469 ,-3.47,0.14,290.354,calcisiltite ,Becscie,,,
+B470 ,-3.67,0.11,291.038,calcilutite ,Becscie,,,
+B471 ,-3.62,0.14,291.722,calcilutite ,Becscie,20U ,404672,5515387
+B472 ,-4.15,-0.28,292.406,calcilutite ,Becscie,,,
+B473 ,-3.75,0.05,293.09,calcilutite ,Becscie,,,
+B474 ,-3.74,-0.12,293.432,calcisiltite ,Becscie,20U ,404663,5515315
+B475 ,-3.63,0.06,293.774,calcilutite ,Becscie,,,
+B476 ,-3.66,0.01,294.458,calcilutite/calcisiltite ,Becscie,,,
+B477 ,-3.72,0.19,295.142,calcilutite ,Becscie,,,
+B478 ,-3.58,0.28,295.826,calcilutite ,Becscie,,,
+B479 ,-3.84,0.04,296.51,"calcilutite, bioturbated ",Becscie,,,
+B480 ,-3.7,-0.09,297.194,calcilutite ,Becscie,,,
+B481 ,-3.55,-0.28,297.707,calcisiltite ,Becscie,20U ,404619,5515115
+B482 ,-3.86,-0.58,297.878,calcilutite ,Becscie,,,
+B483 ,-3.51,-0.2,298.562,calcisiltite ,Becscie,,,
+B484 ,-3.66,-0.22,299.246,calcisiltite ,Becscie,,,
+B485 ,-3.84,-0.27,299.93,calcisiltite ,Becscie,,,
+B486 ,-3.69,0.03,300.614,calcisiltite ,Becscie,20U ,405390,5514765
+B487 ,-3.89,-0.1,301.298,calcisiltite ,Becscie,,,
+B488 ,-3.62,-0.21,301.982,calcilutite ,Becscie,,,
+B489 ,-3.49,-0.66,302.666,calcilutite/calcisiltite ,Becscie,,,
+B490 ,-3.58,-0.19,303.35,calcilutite/calcisiltite ,Becscie,,,
+B491 ,-3.77,-0.61,304.034,calcilutite/calcisiltite ,Becscie,,,
+B492 ,-3.74,0.05,304.718,calcilutite ,Becscie,20U ,406014,5514397
+B493 ,-3.84,-0.56,305.402,calcilutite ,Becscie,,,
+B494 ,-3.68,-0.2,306.086,calcilutite ,Becscie,,,
+B495 ,-3.79,-0.29,306.77,calcisiltite ,Becscie,,,
+B496 ,-3.62,0.05,307.454,calcisiltite ,Becscie,20U ,406299,5514219
+B497 ,-3.86,-0.14,308.138,calcilutite/calcisiltite ,Becscie,,,
+B498 ,-3.88,-0.45,308.822,calcisiltite ,Becscie,20U ,406302,5514160
+B499 ,-3.8,-0.65,309.506,calcilutite/calcisiltite ,Becscie,,,
+B500 ,-3.94,-0.51,310.19,calcisiltite ,Becscie,,,
+B501 ,-4.05,-0.75,310.874,calcilutite ,Becscie,20U ,406454,5514034
+B502 ,-3.8,0.04,311.558,calcilutite/calcisiltite ,Becscie,,,
+B503 ,-3.82,-0.21,312.242,calcilutite/calcisiltite ,Becscie,,,
+B504 ,-3.81,-0.21,312.926,calcilutite ,Becscie,,,
+B505 ,-3.89,-0.75,313.61,calcilutite/calcisiltite ,Becscie,,,
+B506 ,-3.79,-0.4,314.294,calcilutite/calcisiltite ,Becscie,,,
+B507 ,-4.06,-0.37,314.978,calcisiltite ,Becscie,20U ,406436,5513849
+B508 ,-4.6,-0.31,315.662,calcisiltite ,Becscie,,,
+B509 ,-4.17,-0.28,316.346,calcisiltite ,Becscie,,,
